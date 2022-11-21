@@ -406,18 +406,18 @@ nav>li {
     }
     .l1 {
         position: absolute;
-        left: 160 px;
-        top: 1000 px;
+        left: 160px;
+        top: 1000px;
     }
     .l2 {
         position: absolute;
-        left: 160 px;
-        top: 100 px;
+        left: 160px;
+        top: 100px;
     }
     .l3 {
         position: absolute;
-        left: 150 px;
-        top: 400 px;
+        left: 150px;
+        top: 400px;
     }
 
     .menu {
@@ -426,7 +426,7 @@ nav>li {
 
     .menu > li > a.active::before {
         display: none;
-        width: 1 px;
+        width: 1px;
     }
     .menu > li > a.active {
         display: none;
