@@ -407,17 +407,17 @@ nav>li {
     .l1 {
         position: absolute;
         left: 160 px;
-        top: 40 px;
+        top: 400 px;
     }
     .l2 {
         position: absolute;
         left: 160 px;
-        top: 50 px;
+        top: 500 px;
     }
     .l3 {
         position: absolute;
         left: 150 px;
-        top: 100 px;
+        top: 1000 px;
     }
 
     .menu {
