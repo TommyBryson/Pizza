@@ -440,4 +440,7 @@ nav>li {
     .d {
         font-size: 9px;
     }
+    .menu > li > a {
+    display: none;
+    }
 }
