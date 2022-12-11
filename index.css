@@ -252,7 +252,7 @@ nav>li {
 
 .btn-start {
     text-align: center;
-    color: #eaeaea;
+    color: aqua;
     width: 400px;
     text-transform: uppercase;
     font-size: 32px;
@@ -263,7 +263,7 @@ nav>li {
 .s {
     border-radius:200px 50px;
     padding: 12px;
-    background-color: #ee252e;
+    background-color: khaki;
     border: none;
     outline: none;
 }
@@ -449,7 +449,3 @@ nav>li {
     display: none;
     }
 }
-
-
-
-
