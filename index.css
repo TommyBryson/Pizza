@@ -365,6 +365,9 @@ nav>li {
 
 
 @media (max-width: 540px) {
+    .title {
+        margin-top: -10px;
+    }
     .navigation {
         flex-direction: column;
     }
